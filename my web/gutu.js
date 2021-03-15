@@ -2,6 +2,7 @@ let x = 0
 let y = 0
 let z = 0
 let t = 0
+// buraya biraz agac
 setInterval(kidDivMove, 5)
 setInterval(secDivMove, 5)
 a = setInterval(thrdDivMove, 5)
